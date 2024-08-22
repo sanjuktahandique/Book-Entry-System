@@ -13,7 +13,7 @@ in mind easy modifications and enhancement that may be required from time to tim
 books into and from the system respectively.<br> 
 * _Encrypt Data_: The admin adds the books by encrypting the data in the database.<br>
 * _View Books_: Admin can view the books by decrypting it from the database.<br><br> 
-**OBJECTIVES**<br> 
+**OBJECTIVES**<br> <br>
   The main objective of this project is to computerize the manual system & reduce the time 
 consumption. In other words, we can say that our project has the following objectives: - <br> 
  
@@ -21,7 +21,7 @@ consumption. In other words, we can say that our project has the following objec
 2. Reduce time consumption. <br> 
 3. Reduce error scope. <br> 
 4. Paper work is reduced as we need not to maintain registers for future references.<br>
-**SYSTEM REQUIREMENT** <br>
+<br>**SYSTEM REQUIREMENT** <br>
 1) _Hardware Requirement_: 
 The hardware facilities which are required in order to cope up with the proposed 
 systems are as follows:
