@@ -30,6 +30,6 @@ systems are as follows:
 2) _Software Requirement_: 
 The minimum software requirements for the proposed system would be- 
 1. Windows 7, 8.1, 10 Operating System. 
-2. PHP (Hypertext Pre-processor) with HTML for front end, My SQL for back 
+2. HTML for front end, PHP (Hypertext Pre-processor) with My SQL for back 
 end and WAMP, XAMPP as web server of the proposed system.
 
